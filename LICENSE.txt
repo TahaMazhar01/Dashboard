@@ -1,6 +1,6 @@
 Limited Commercial Use License
 
-Copyright © 2025 Smart UI Studio
+Copyright © 2025 Taha Mazhar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify and use the Software for commercial purposes, subject to the following conditions:
 
@@ -8,9 +8,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
   The Software may be used, modified and incorporated into other products for commercial purposes. However, the source code of the Software may not be distributed, sublicensed, or sold on a stand-alone basis or as part of any commercial product.
 
-  Redistribution of the source code, with or without modification, is only allowed for non-commercial purposes. Distribution of the source code in any commercial form, including offering it as part of a service or product, is strictly prohibited without express written permission from Smart UI Studio.
+  Redistribution of the source code, with or without modification, is only allowed for non-commercial purposes. Distribution of the source code in any commercial form, including offering it as part of a service or product, is strictly prohibited without express written permission from Taha Mazhar.
 
-  This license does not grant permission to use the trade names, trademarks, service marks, or product names of Smart UI Studio, except as required for describing the origin of the Software.
+  This license does not grant permission to use the trade names, trademarks, service marks, or product names of Taha Mazhar, except as required for describing the origin of the Software.
 
 Disclaimer:
 
